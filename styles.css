@@ -1,0 +1,78 @@
+table
+{
+	width: 100%;
+}
+
+#astroTitle
+{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 2.0em;
+	margin-left: 3%;
+}
+
+p
+{
+	padding: 1px;
+	border-bottom: 1px solid lightgray;
+	margin-left: 3%;
+}
+
+#weighttitle
+{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: .9em;
+	margin-left: 5%;
+	float: left;
+}
+input#astroWeight
+{
+	width: 37%;
+	margin-left: 5%;
+	float: left;
+	border: solid 1px lightgray;
+	padding: 5px	;
+	border-radius: 5px;
+}
+
+#selectPlanet
+{
+	width: 37%;
+	margin-left: 5%;
+	float: left;
+	border: solid 1px lightgray;
+	padding: 5px;
+}
+
+#planettitle
+{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: .9em;
+	
+}
+
+p#resulttext
+{
+	font-family: Arial;
+	font-size: .9em;
+	border: 1px solid lightgray;
+	padding: 25px;
+	border-radius: 4px;
+	background-color: lightgray;
+
+}
+
+button
+{
+	padding: 8px;
+	width: 14%;
+	font-size: .9em;
+	color: white;
+	background-color: #007acc;
+	border-color: #007acc;
+	border-radius: 4px;
+	border: solid 1px;
+	
+}
